@@ -1,0 +1,12 @@
+name: My First Workflow
+
+# This line makes the action run on any push to your repository
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      # This is the required step with your email as the name
+      - name: 22f1001168@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
