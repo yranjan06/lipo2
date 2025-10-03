@@ -8,5 +8,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # This is the required step with your email as the name
-      - name: 22f1001168@ds.study.iitm.ac.in
+      - name: 22f1001611@ds.study.iitm.ac.in
         run: echo "Hello, world!"
